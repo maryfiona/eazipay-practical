@@ -1,0 +1,2 @@
+# eazipay-practical
+practices
