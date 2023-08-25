@@ -5,8 +5,7 @@ const Navbar =() =>{
     return(
         <>
         <div>
-      
-                <div>
+             <div>
                     <ul className="space-x-11 p-10 text-xl justify-left  flex">
                         <img  className='mr-32 ml-10' src={easipay} alt="easipay" />
                         <li >
@@ -26,7 +25,6 @@ const Navbar =() =>{
                     </ul>
 
                 </div>
-
         </div>
         
         </>
