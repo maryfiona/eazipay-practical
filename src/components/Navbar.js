@@ -6,8 +6,8 @@ const Navbar =() =>{
         <>
         <div>
              <div>
-                    <ul className="space-x-11 p-10 text-xl justify-left  flex">
-                        <img  className='mr-32 ml-10' src={easipay} alt="easipay" />
+                    <ul className="space-x-8 p-10 flex">
+                        <img  className='mr-8' src={easipay} alt="easipay" />
                         <li >
                         <a  href="/">Individual</a>
                         </li>
@@ -20,8 +20,8 @@ const Navbar =() =>{
                         <li>
                         <a href="/">Set your payroll</a>
                         </li>
-                        <button className="bg-white  border-2 border-green-600 rounded-full space-x-2 text-green-900 w-52 h-11" >Log in </button>
-                       <button className="bg-green-800 space-x-2  rounded-full text-white w-52 h-11" >Register </button>
+                        <button className="bg-white  border-2 border-green-600 rounded-full  text-green-900 w-56 h-14" >Login </button>
+                       <button className="bg-green-800 space-x-2  rounded-full text-white w-56 h-14" >Register </button>
                     </ul>
 
                 </div>
