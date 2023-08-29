@@ -36,10 +36,11 @@ function Advert () {
             
              </div>
              </div>
+             <div className='flex pt-40'>
+           <img src={pinky} alt='pinky' />
         </div>
-        <div>
-           <img  src={pinky} alt='pinky' />
         </div>
+        
  </div>
 
 
