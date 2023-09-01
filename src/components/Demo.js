@@ -18,7 +18,7 @@ import Dot2 from '../assets/Dot2.svg'
                         </div>
  </div>
 
-                            <div className="form-box w-full p-6 border-gray-100 bg-white">
+                            <div className="form-box w-full p-6 border-gray-100 bg-white shadow-md rounded-lg  inset-x-0 bottom-0  ">
                             <form>
                                 <h4 className="text-center"> First things first</h4>
                                 <p className="text-center">
