@@ -34,7 +34,7 @@ function Advert () {
           
            </div>
            </div>
-           <div className=' w-96 pt-20'>
+           <div className=' w-max pt-20'>
               <img src={pinky} alt="pinky" />
          </div>
 
