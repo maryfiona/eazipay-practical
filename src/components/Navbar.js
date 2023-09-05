@@ -4,7 +4,7 @@
 const Navbar =() =>{
     return(
       <div>
-      <ul className="flex-no-wrap relative flex w-full items-center justify-between  py-2 shadow-md shadow-black/5 lg:flex-wrap 
+      <ul className="flex-no-wrap relative flex w-full items-center justify-between  py-2 lg:flex-wrap 
       lg:justify-start lg:py-4">
           <div className='flex'>
 
