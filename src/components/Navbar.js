@@ -6,7 +6,7 @@ const Navbar =() =>{
         <div>
   
   <nav
-    className="flex-no-wrap relative flex w-full items-center justify-between  py-2 shadow-md shadow-black/5  dark:shadow-black/10 lg:flex-wrap lg:justify-start lg:py-4"
+    className="flex-no-wrap relative flex w-full items-center justify-between   py-2 shadow-md shadow-black/5  dark:shadow-black/10 lg:flex-wrap lg:justify-start lg:py-4"
     data-te-navbar-ref>
     <div className="flex w-full flex-wrap items-center justify-between px-3">
     
