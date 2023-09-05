@@ -1,5 +1,5 @@
-//import Navbar from '../components/Navbar'
-import Nav from '../components/Nav'
+import Navbar from '../components/Navbar'
+
 // import LandingPage from '../components/LandingPage'
 //  import Individual from '../components/Individual'
  //import HowItWorks from '../components/HowItWorks';
@@ -8,8 +8,8 @@ import Nav from '../components/Nav'
 function HomePage() {
     return (
       <>
-     {/* // <Navbar /> */}
-      <Nav />
+      <Navbar />
+    
          {/* <LandingPage /> 
        <Individual />
         <HowItWorks />
