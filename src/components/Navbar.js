@@ -4,13 +4,13 @@
 const Navbar =() =>{
     return(
       <div>
-      <ul className="flex-no-wrap relative flex w-full items-center justify-between  py-2 lg:flex-wrap 
-      lg:justify-start lg:py-4">
+      <ul className="">
           <div className='flex'>
 
          
-          <img  src={easipay} alt="easipay" />
-          <li >
+          <img className='grid grid-cols-4' src={easipay} alt="easipay" />
+          <div className='grid grid-cols-8 pl-40'>
+          <li>
           <a  href="/">Individual</a>
           </li>
           <li>
@@ -24,6 +24,7 @@ const Navbar =() =>{
           </li>
           <button className="bg-white  border-2 border-gree900" >Login </button>
          <button className="bg-green-800  rounded-full text-white " >Register </button>
+         </div>
       </div>
       </ul>
 
